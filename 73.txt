@@ -1,0 +1,22 @@
+
+
+
+ This drug entry is a stub and has not been fully annotated. It is scheduled to be annotated soon. IdentificationGeneric Name(12R)-12-hydroxyeicosapentaenoic acidDrugBank Accession NumberDB15571BackgroundNot AvailableTypeSmall MoleculeGroupsExperimentalStructure
+
+
+3DDownload MOLSDF3D-SDFPDBSMILESInChI
+
+
+ Similar StructuresStructure for (12R)-12-hydroxyeicosapentaenoic acid (DB15571)× CloseWeightAverage: 318.457 Monoisotopic: 318.219494826 Chemical FormulaC20H30O3SynonymsNot AvailablePharmacologyIndicationNot AvailableReduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See howContraindications & Blackbox WarningsAvoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn morePharmacodynamicsNot AvailableMechanism of actionNot AvailableAbsorptionNot AvailableVolume of distributionNot AvailableProtein bindingNot AvailableMetabolismNot AvailableRoute of eliminationNot AvailableHalf-lifeNot AvailableClearanceNot AvailableAdverse EffectsImprove decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn moreToxicityNot AvailablePathwaysNot AvailablePharmacogenomic Effects/ADRs 
+
+
+Not AvailableInteractionsDrug Interactions 
+
+
+This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. Not AvailableFood InteractionsNot AvailableProductsDrug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access nowUnapproved/Other Products 
+
+
+NameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageLuvira(12R)-12-hydroxyeicosapentaenoic acid (465 mg/1) + Doconexent (375 mg/1) + Omega-3 fatty acids (1220 mg/1)CapsuleOralSterling-Knight Pharmaceuticals, LLC2020-01-17Not applicableUSLuvira(12R)-12-hydroxyeicosapentaenoic acid (465 mg/1) + Doconexent (375 mg/1) + Omega-3-acid ethyl esters (1220 mg/1)CapsuleOralSterling-Knight Pharmaceuticals, LLC2019-11-072020-01-17USCategoriesDrug CategoriesNot AvailableClassificationNot classifiedAffected organismsNot AvailableChemical IdentifiersUNII78P2ZC128SCAS number109430-12-8InChI KeyMCRJLMXYVFDXLS-IHWYZUJNSA-NInChIInChI=1S/C20H30O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h3-4,7-11,13-14,17,19,21H,2,5-6,12,15-16,18H2,1H3,(H,22,23)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m1/s1IUPAC Name(5Z,8Z,10E,12R,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acidSMILESCC\C=C/C\C=C/C[C@@H](O)\C=C\C=C/C\C=C/CCCC(O)=OReferencesGeneral ReferencesNot AvailableExternal LinksChemSpider4446312RxNav2261372ZINCZINC000014449721Clinical TrialsClinical Trials 
+
+
+PhaseStatusPurposeConditionsCountPharmacoeconomicsManufacturersNot AvailablePackagersNot AvailableDosage FormsFormRouteStrengthCapsuleOralPricesNot AvailablePatentsNot AvailablePropertiesStateNot AvailableExperimental PropertiesNot AvailablePredicted PropertiesPropertyValueSourceWater Solubility0.00305 mg/mLALOGPSlogP5.54ALOGPSlogP4.99ChemaxonlogS-5ALOGPSpKa (Strongest Acidic)4.89ChemaxonpKa (Strongest Basic)-1.6ChemaxonPhysiological Charge-1ChemaxonHydrogen Acceptor Count3ChemaxonHydrogen Donor Count2ChemaxonPolar Surface Area57.53 Å2ChemaxonRotatable Bond Count13ChemaxonRefractivity102.59 m3·mol-1ChemaxonPolarizability37.19 Å3ChemaxonNumber of Rings0ChemaxonBioavailability1ChemaxonRule of FiveYesChemaxonGhose FilterYesChemaxonVeber's RuleNoChemaxonMDDR-like RuleNoChemaxonPredicted ADMET FeaturesNot AvailableSpectraMass Spec (NIST)Not AvailableSpectraNot Available×Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Drug created at November 18, 2019 16:05 / Updated at June 12, 2020 16:53 
