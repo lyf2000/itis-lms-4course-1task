@@ -81,7 +81,7 @@ class DrugSpider(scrapy.Spider):
         html = response.xpath('/html/body/main/div/div/div[2]/div[2]')[0]
 
         text = html.extract()
-        text = bs4.BeautifulSoup(text).get_text()
+        text = bs4.BeautifulSoup(text).get_text(separator=" ")
         with open(f"{self.counter}.txt", 'w') as f:
             f.write(text)
         with open('index.txt', 'a') as f:
